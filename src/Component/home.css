@@ -1,0 +1,29 @@
+.parent{
+    width: 100%;
+    height: auto;
+    float: left;
+}
+#child1{
+    width: 10%;
+    height: 100px;
+    background-color: black;
+    float: left;
+}
+#child2{
+    width: 10%;
+    height: 100px;
+    background-color: black;
+    float: left;
+}
+#child3{
+    width: 50%;
+    height: 100px;
+    background-color: black;
+    float: left;
+}
+#child4{
+    width: 30%;
+    height: 100px;
+    background-color: black;
+    float: left;
+}

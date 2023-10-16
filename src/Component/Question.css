@@ -1,0 +1,16 @@
+.faq{
+  
+    padding: 5px;
+    margin: 5px;
+    height: 50px;
+    width: 60%;
+    word-spacing: 5px;
+   cursor: pointer;
+    text-align: left;
+}
+#question{
+    color:#447FF2;
+}
+.faq:hover{
+    height: auto;
+}

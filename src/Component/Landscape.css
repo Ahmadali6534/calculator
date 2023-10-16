@@ -1,0 +1,368 @@
+.Parent{
+    width: 100%;
+    height: auto;
+    background-color: white;
+    
+}
+.childern{
+    width: 100%;
+    height: auto;
+    float: left;
+    }
+.child1{
+    width: 7;
+    height: 100px;
+    float: left;
+    
+}
+.child2{
+    width: 15%;
+    height: 100px;
+    float: left;
+}
+.chil4{
+    width: 20%;
+    height: 100px;
+    float: left;
+}
+.chil3{
+    width: 55%;
+    height: 100px;
+    float: left;
+}
+#icon{
+    color: #447FF2;
+    font-size: 50px;
+    background-color: white;
+    border: none;
+    padding-left: 50px;
+}
+#text{
+    font-size: 30px;
+    
+}
+#text1{
+    color: #447FF2;
+    font-size: 30px;
+    
+}
+.head{
+    padding-top: 10px;
+}
+#button2{
+    background-color: white;
+    padding-left: 0px;
+    padding-top: 40px;
+    font-size: 18px;
+    border: none;
+    cursor: pointer;
+    color: #447FF2;
+    font-weight: 700;
+}
+#button1{
+    background-color: white;
+    padding-left: 25px;
+    padding-top: 40px;
+    font-size: 18px;
+    border: none;
+    cursor: pointer;
+    color: #447FF2;
+    font-weight: 700;
+}
+#login{
+    height: 50px;
+    width: 100px;
+    border: 2px solid #447FF2;
+    background-color: white;
+    border-radius: 20px;
+    margin-top: 10px;
+    font-size: 17px;
+    cursor: pointer;
+
+    color: #447FF2;
+}
+#signup{
+    background-color: #447FF2;
+    height: 50px;
+    width: 100px;
+    border: 2px solid #447FF2;
+    border-radius: 20px;
+    margin-top: 10px; 
+    margin-left: 20px;
+    font-size: 17px;
+    cursor: pointer;
+}
+#gg{
+    background-color: white;
+    border: none;
+    font-size: 25px;
+    margin-top:10px;
+    color: #447FF2;
+}
+.content{
+    width: 100%;
+    height: 900px;
+    background-image: url(https://images.unsplash.com/photo-1640340434855-6084b1f4901c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8dHJhZGluZ3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60);
+    
+  background-size:100% 81%;
+  background-repeat: no-repeat; 
+  background-position: center; 
+}
+#hh{
+    
+    font-size: 120px;
+    color: white;
+    font-family:"Open sans",sans-serif ;
+    font-weight: 600;
+}
+#hhh{
+    font-size: 120px;
+     color: #447FF2;
+     font-family:"Open sans",sans-serif ;
+    font-weight: 600;
+}
+.para{
+    font-size: 36px;
+    color: white;
+    font-family:"Open sans",sans-serif ;
+    font-weight: 400;
+}
+.para1{
+    font-size: 28px;
+    color: white;
+    font-family:"Open sans",sans-serif ;
+    font-weight: 400;
+}
+.color{
+    font-size: 40px;
+    color: #447FF2;
+}
+.color1{
+    font-size: 28px;
+    color: #447FF2;
+}
+#login1{
+    height: 50px;
+    width: 150px;
+    border: 2px solid #447FF2;
+    background-color: transparent;
+    color: #447FF2;
+    border-radius: 20px;
+    margin-top: 30px;
+    font-size: 17px;
+    cursor: pointer;
+}
+#signup2{
+    background-color: #447FF2;
+    height: 50px;
+    width: 150px;
+    color: white;
+    border: 2px solid #447FF2;
+    border-radius: 20px;
+    margin-top: 30px; 
+    margin-left: 20px;
+    font-size: 17px;
+    cursor: pointer;
+}
+.content2{
+width: 100%;
+height: 10000px;
+background-color: #141414;
+}
+#color2{
+    color: #447FF2;
+}
+.content2 h1{
+    color: white;
+}
+#no1{
+    width: 28%;
+    height: 400px;
+    float: left;
+    padding:  20px;
+}
+#xyz{
+    margin-left: 500px;
+}
+#no11{
+    width: 20%;
+    height: 400px;
+    float: left;
+    padding:  20px;
+}
+#no2{
+    width: 5%;
+    height: 400px;
+    float: left;
+}
+#no21{
+    width: 100%;
+   display: flex;
+   flex-direction: row;
+    float: left;
+}
+#noo{
+    width: 20%;
+    height: 400px;
+    float: left;
+}
+#ic{
+    background-color: #141414;
+    font-size: 100px;
+    border: none;
+    color: #447FF2;
+}
+#cc{
+    color:#447FF2;
+}
+#tx{
+    color: white;
+}
+#tx1{
+    color: gray;
+    font-size: 20px;
+}
+.no3{
+    width: 25%;
+    height: 400px;
+    float: left;
+    background-color: #447FF2; 
+    padding-left: 50px;
+    padding-top: 20pxs;
+    border-radius: 3px;
+    color: white;
+    margin-top:50px ;
+    text-align: left;
+}
+#no4{
+    width: 11%;
+    height: 400px;
+    float: left;
+}
+#thirdplan{
+    background: #002979  !important;
+    border-radius: 20px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    bottom: 80px;
+    left: 50px;
+    position: relative;
+    z-index: 1;
+    
+}
+#he{
+    font-size: 40px;
+    font-weight: 700;
+    color: white;
+}
+#hee{
+    font-size: 40px;
+    font-weight: 700;
+    color: white;
+}
+
+#head{
+    font-size: 35px;
+    color: white;
+    font-weight: 700;
+}
+.plansparent{
+background-color:#447FF2 ;
+height: 500px;
+width: 70%;
+border-radius: 20px;
+margin-top: 100px;
+
+}
+#qq{
+    color: white;
+}
+#butt{
+    height: 50px;
+    width: 150px;
+    border-radius: 20px;
+    cursor: pointer;
+    border: 2px solid white;
+    margin-left: 20px;
+    background-color: white;
+    color: #447FF2;
+    font-size: 15px;
+}
+#n1{
+    width: 20%;
+    height: 500px;
+    float: left;
+}
+#n2 h1{
+    color: #447FF2;
+   text-align: left;
+   padding-left: 35px;
+}
+#n2{
+    width: 35%;
+    height: 500px;
+    float: left;
+    color: white;
+    padding-left: 80px;
+}
+.slider{
+    width: 70%;
+    height: 250x;
+    background-color: #141414;
+}
+#n2 p{
+    padding-left: 30px;
+    font-size: 18px;
+    text-align: left;
+}
+
+.section{
+    width: 40%;
+    height: 300px;
+    float: left;
+    text-align: left;
+}
+
+.section p{
+    font-size: 25px;
+    color: white;
+    padding-left: 50px;
+    padding-right: 100px;
+    padding-top: 10px;
+}
+.s1{
+    width: 15%;
+    height: 300px;
+    float: left;
+}
+.n1{
+    width: 10%;
+    height: 300px;
+    float: left;
+    
+}
+#n3{
+    width: 100%;
+    height: 500px;
+}
+.img{
+    width: 500px !important;
+    height: 500px !important;;
+}
+#ii{
+    width: 600px;
+    height: 350px;
+    border-radius: 5px;  
+}
+
+#imgful{
+    width: 80%;
+    height: 600px;
+    border-radius: 20px;
+
+}
+.paraw{
+    font-size: 28px;
+    color: white;
+    font-weight: 400;
+}
